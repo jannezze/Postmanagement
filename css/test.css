@@ -58,6 +58,12 @@ img.VIKE_Promo_1{
   transform: translate(-50%, -50%);
 }
 
+@media screen and (max-width: 768px) {
+    img.Vike_Promo_1 {
+        display: none;
+    }
+}
+
 .content{
 	display: grid;
 	grid-template-columns: 11fr 9fr;
