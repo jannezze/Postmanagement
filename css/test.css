@@ -1,6 +1,9 @@
 html, body{
 	font-family: lucida grande;
 	margin: 0px;
+}
+
+p{
 	width: 100%;
 }
 
