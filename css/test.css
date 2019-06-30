@@ -3,10 +3,6 @@ html, body{
 	margin: 0px;
 }
 
-p{
-	width: 100%;
-}
-
 header{
 	background-color: white;
 	padding: 15px;
@@ -18,8 +14,6 @@ img.PostManagement_Banner{
 }
 
 img.PostManagement_Banner{
-	/*max-width: 100%;
-	max-height: 100%;*/
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
