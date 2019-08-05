@@ -1,0 +1,147 @@
+html, body{
+	font-family: lucida grande;
+	margin: 0px;
+}
+
+header{
+	background-color: white;
+	padding: 15px;
+}
+
+img.PostManagement_Banner{
+	width: 1100px;
+	max-width: 100%;
+}
+
+img.PostManagement_Banner{
+	/*max-width: 100%;
+	max-height: 100%;*/
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+div.title{
+	background-color: #453630;
+	padding: 5px 50px;
+	color: white;
+}
+
+/* Hier begint de VIKE Promo*/
+
+div.content{
+	background-color: #F7931E;
+	color: white;
+}
+
+img.VIKE_Promo_1{
+	max-width: 100%;
+	display: block;
+  	width: 800px;
+  	padding: 0px;
+}
+
+.img_text{
+	font-size: 45px;
+}
+
+.img_content {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.content{
+	display: grid;
+	grid-template-columns: 11fr 9fr;
+}
+
+.inhoud{
+	padding: 19px 37px;
+}
+
+a{
+	color: #FFD9CA;
+	text-decoration: none;
+}
+
+div.about_postmanagement_title{
+	background-color: #453630;
+	padding: 5px 50px;
+	color: white;
+}
+
+.full_about{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	background-color: #F7931E;
+}
+
+div.about_postmanagement{
+	background-color: #F7931E;
+	padding: 5px 50px;
+	color: white;
+}
+
+img.janne{
+	max-width: 100%;
+	display: block;
+  	width: 800px;
+  	padding: 0px;
+}
+
+div.title_contact{
+	background-color: #453630;
+	padding: 5px 50px;
+	color: white;
+}
+
+.contactform{
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+}
+
+h3{
+	color: white;
+}
+
+div.bedrijfsgegevens{
+	padding: 10px 20px;
+	background-color: #F7931E;
+	max-width: 100%;
+}
+
+div.contactgegevens{
+	padding: 10px 20px;
+	background-color: #F7931E;
+	max-width: 100%;
+}
+
+footer{
+	background-color: #D8D8D8;
+	padding: 15px 20px;
+}
+
+.footer_postmanagement{
+	color: black;
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
+	/*<header>
+		<h1>POSTMANAGEMENT</h1>		
+		<img class="PostManagement Logo" src="img/PostManagement_kompas.png">
+	</header>*/
